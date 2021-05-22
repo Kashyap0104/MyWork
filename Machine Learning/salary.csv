@@ -1,0 +1,16 @@
+company,job,degree,salary_more_than_100k
+google,s.e,b,0
+google,c.p,m,1
+google,s.e,b,0
+google,c.p,m,1
+google,b.m,m,1
+google,s.e,b,0
+fb,c.p,b,1
+fb,c.p,m,1
+fb,b.m,b,1
+fb,s.e,m,1
+fb,s.e,m,1
+abc,b.m,b,0
+abc,b.m,b,0
+abc,s.e,m,1
+abc,c.p,m,1
